@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T00:03:25.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5PVqYSiwSmTdWHBYdeqr" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T00:07:21.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="OTqm8MOwNmlDTT32S414" version="15.7.3" type="github">
   <diagram id="WiW1dt4rwBZ5oRVmD_iz" name="Page-1">
     <mxGraphModel dx="1382" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" math="0" shadow="0">
       <root>
@@ -840,6 +840,18 @@
             <mxPoint x="750" y="90" as="sourcePoint" />
             <mxPoint x="790" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rzbT1TYOIwulQJLnCchb-155" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzbT1TYOIwulQJLnCchb-156" value="&lt;font style=&quot;font-size: 20px&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rzbT1TYOIwulQJLnCchb-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="rzbT1TYOIwulQJLnCchb-157" target="X48cYuM6y2Ta0CUNgX4l-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rzbT1TYOIwulQJLnCchb-157" value="&lt;span style=&quot;&quot;&gt;If y = 2: output [1, 1] or 1&lt;br&gt;If y = 1: output [0, 0] or 0&lt;br&gt;&amp;nbsp;If y = 0: output [1, 0] or -1&lt;br&gt;Depends on the required dimensions of the output&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="645" y="350" width="350" height="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
