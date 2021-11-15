@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T01:46:41.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.3" etag="GWFI2cUNXsBA8StnPcDN" type="github"><diagram id="VExZp7ZCYf2bX5xccb7v">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T02:29:52.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5PQiuGmWQ5hjzuQyc2rx" version="15.7.3" type="github" pages="4">
+  <diagram id="VExZp7ZCYf2bX5xccb7v" name="Page-1">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eiPVYjHCUiB6o42yTuii-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="1">
+          <mxGeometry x="207" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="1">
+          <mxGeometry x="315" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="1">
+          <mxGeometry x="427" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-7" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="102" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-8" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;6&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="219" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-9" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-10" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;11&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="439" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/face-monkey-128.png;fontSize=35;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="79" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-12" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px&quot;&gt;Guards return in h = 8 hours!&lt;br style=&quot;font-size: 20px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="427" y="10" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eiPVYjHCUiB6o42yTuii-15" value="I eat 1 banana per hour" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="137" y="40" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="analysis" id="uebK3bJCNVqbc03sRjzA">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-0" />
+        <mxCell id="PF3AmU_VToJqRBZllj5j-1" parent="PF3AmU_VToJqRBZllj5j-0" />
+        <mxCell id="PF3AmU_VToJqRBZllj5j-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="480" y="196" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/face-monkey-128.png;fontSize=35;fontColor=#FF0000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="500" y="128" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fruits/128/Banana.png;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="500" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-mono-reflection/red/button-cross_red.png;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="400" y="190" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="125" y="62" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-18" value="&lt;b&gt;N&lt;/b&gt; bananas per hour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="30" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeWidth=4;" edge="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191" y="94.5" as="sourcePoint" />
+            <mxPoint x="270" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="396" y="62" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-21" value="&lt;b&gt;N+1&lt;/b&gt; bananas per hour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="280" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-22" value="&lt;b&gt;N-1&lt;/b&gt; bananas per hour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="274" y="200" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-mono-reflection/red/button-cross_red.png;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="127" y="190" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-25" value="&lt;b&gt;N&lt;/b&gt; bananas per hour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="30" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeWidth=4;" edge="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="191" y="214.5" as="sourcePoint" />
+            <mxPoint x="270" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-28" value="&lt;font style=&quot;font-size: 30px&quot; color=&quot;#7ea6e0&quot;&gt;If&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="65" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PF3AmU_VToJqRBZllj5j-29" value="&lt;font style=&quot;font-size: 30px&quot; color=&quot;#7ea6e0&quot;&gt;Then&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="PF3AmU_VToJqRBZllj5j-1">
+          <mxGeometry x="336" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="ana_2" id="bCeUsIo0_GoXWZfPuoBN">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-0" />
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-1" parent="zaEXgnyxYLhUvrBIhYTb-0" />
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="524" y="42" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/face-monkey-128.png;fontSize=35;fontColor=#FF0000;" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="520" y="15" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/fruits/128/Banana.png;fontSize=20;fontColor=#000000;" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="520" y="58" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png;fontSize=20;fontColor=#000000;" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="370" y="30" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;fontColor=#000000;strokeWidth=4;" edge="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="206" as="sourcePoint" />
+            <mxPoint x="580" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-mono-reflection/red/button-cross_red.png;fontSize=20;fontColor=#000000;" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="30" y="38" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-17" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#7EA6E0;" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="32" y="223" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-18" value="sum(piles)&lt;br style=&quot;font-size: 20px;&quot;&gt;per hour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="376" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=25;fontColor=#000000;" edge="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="205" as="sourcePoint" />
+            <mxPoint x="400" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=25;fontColor=#000000;" edge="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61.5" y="206" as="sourcePoint" />
+            <mxPoint x="61.5" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zaEXgnyxYLhUvrBIhYTb-23" value="speed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#000000;" vertex="1" parent="zaEXgnyxYLhUvrBIhYTb-1">
+          <mxGeometry x="520" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="bin_1" id="YQEPrmMjuwV7QBXx7WLq">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-0" />
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-1" parent="zy9h8HyMn1pqCBuV0A2z-0" />
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="90" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="207" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="315" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fruits-8/512/banana-128.png" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="427" y="180" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-6" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="102" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-7" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;6&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="219" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-8" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;7&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="327" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-9" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 35px&quot;&gt;11&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="439" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tango-icon-library/48/face-monkey-128.png;fontSize=35;fontColor=#FF0000;" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry y="112" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-11" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px&quot;&gt;Guards return in h = 8 hours!&lt;br style=&quot;font-size: 20px&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#FF0000;" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="427" y="10" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zy9h8HyMn1pqCBuV0A2z-12" value="I eat 1 banana per hour" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fontSize=20;fontColor=#000000;" vertex="1" parent="zy9h8HyMn1pqCBuV0A2z-1">
+          <mxGeometry x="89" y="30" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
